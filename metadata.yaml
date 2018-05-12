@@ -1,0 +1,38 @@
+_repo: Christmas-Outside-of-Eden_15552
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Savage, Eugene Francis
+    birthdate: &id001 1883
+    deathdate: 1978
+    gutenberg_agent_id: '45715'
+    url: http://www.gutenberg.org/2009/agents/45715
+covers:
+- cover_type: archival
+  image_path: 15552-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dawson, Coningsby
+    aliases:
+    - Dawson, Coningsby W. (Coningsby William)
+    - Dawson, Coningsby William
+    birthdate: *id001
+    deathdate: 1959
+    gutenberg_agent_id: '2497'
+    url: http://www.gutenberg.org/2009/agents/2497
+    wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christmas stories'
+title: Christmas Outside of Eden
+url: http://www.gutenberg.org/ebooks/15552
